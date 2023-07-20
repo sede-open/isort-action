@@ -62,3 +62,4 @@ or add the `--check-only` flag to exit without formatting code.
 ## SonarQube
 
 https://sesvc.shell.com/dashboard?id=com.shell.isort-action&selectedTutorial=github-actions
+
